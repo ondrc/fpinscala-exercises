@@ -1,0 +1,13 @@
+# sbt
+target
+
+#scala
+*.class
+
+# idea
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
